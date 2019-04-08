@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vasya/CLionProjects/JecaKursWork/arrayHandling.c
+malloc.h
+-
+stdlib.h
+-
+globals.h
+/home/vasya/CLionProjects/JecaKursWork/globals.h
+
+/home/vasya/CLionProjects/JecaKursWork/globals.h
+
+/home/vasya/CLionProjects/JecaKursWork/main.cpp
+mainHandler.c
+/home/vasya/CLionProjects/JecaKursWork/mainHandler.c
+
+/home/vasya/CLionProjects/JecaKursWork/mainHandler.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+arrayHandling.c
+/home/vasya/CLionProjects/JecaKursWork/arrayHandling.c
+

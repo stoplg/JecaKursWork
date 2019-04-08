@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/JecaKursWork.dir/main.cpp.o CMakeFiles/JecaKursWork.dir/arrayHandling.c.o CMakeFiles/JecaKursWork.dir/sorts.c.o CMakeFiles/JecaKursWork.dir/mainHandler.c.o  -o JecaKursWork 
